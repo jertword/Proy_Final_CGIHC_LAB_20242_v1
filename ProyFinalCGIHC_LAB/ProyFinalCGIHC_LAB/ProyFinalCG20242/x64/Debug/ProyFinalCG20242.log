@@ -1,0 +1,37 @@
+﻿  CodigoFinal.cpp
+C:\Users\USER\source\repos\Proy_Final_CGIHC_LAB_20242\ProyFinalCGIHC_LAB\CodigoFinal.cpp(925,39): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\USER\source\repos\Proy_Final_CGIHC_LAB_20242\ProyFinalCGIHC_LAB\CodigoFinal.cpp(934,39): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\USER\source\repos\Proy_Final_CGIHC_LAB_20242\ProyFinalCGIHC_LAB\CodigoFinal.cpp(1071,26): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\USER\source\repos\Proy_Final_CGIHC_LAB_20242\ProyFinalCGIHC_LAB\CodigoFinal.cpp(1104,21): warning C4305: '+=': truncamiento de 'double' a 'float'
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(input.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_time.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_thread.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(platform.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(platform.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(vulkan.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(null_init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(null_init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_module.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_module.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_joystick.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(wgl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(egl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(null_monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(null_monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(null_window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(null_window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(null_joystick.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(null_joystick.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(osmesa_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glad.lib(glad.obj) : warning LNK4099: no se encontró PDB '' con 'glad.lib(glad.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  ProyFinalCG20242.vcxproj -> C:\Users\USER\source\repos\Proy_Final_CGIHC_LAB_20242\bin\ProyFinalCG20242.exe
